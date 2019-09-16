@@ -1,1 +1,28 @@
-{"sitedata":[{"sitename":"Fly My Community","icon":"/img/favicon.png","logo":"/img/logo.png","metadesc":"Trusted By Fine Real Estate Professionals","metauthor":"Fly My Community","metakeyword":"cms"}],"content":[{"email":"chris@thecowlesteam.com","linkcont":"719-332-7507","videoid":"234045698","sliderbg":"/img/fly3_bg.jpg"}],"about":[{"abouttext1":"Wolf Ranch","abouttext2":"Located in northeast Colorado Springs, Wolf Ranch sits at about 6,500 feet in elevation. Higher than Colorado Springs, its residents never tire of spectacular views of the Rocky Mountain Front Range and the city. Wolf Ranch has parks, open space, trails, a recreation center and a dog park. Plans include more than 300 acres of open space and parks, over 10 miles of trail, additional recreation centers and a 14-acre lake at the town center.","aboutbg":"/img/content_bg.png"}],"updatedDate":"2017-11-28T06:24:37.530Z"}
+{
+  "sitedata": [
+    {
+      "sitename": "Fly My Community",
+      "icon": "/img/favicon.png",
+      "logo": "/img/logo.png",
+      "metadesc": "Trusted By Fine Real Estate Professionals",
+      "metauthor": "Fly My Community",
+      "metakeyword": "cms"
+    }
+  ],
+  "content": [
+    {
+      "email": "Orders@pixvid.net",
+      "linkcont": "833-715-7150",
+      "videoid": "234045698",
+      "sliderbg": "/img/fly3_bg.jpg"
+    }
+  ],
+  "about": [
+    {
+      "abouttext1": "$300 for 35+ videos!",
+      "abouttext2": "Located in northeast Colorado Springs, Wolf Ranch sits at about 6,500 feet in elevation. Higher than Colorado Springs, its residents never tire of spectacular views of the Rocky Mountain Front Range and the city. Wolf Ranch has parks, open space, trails, a recreation center and a dog park. Plans include more than 300 acres of open space and parks, over 10 miles of trail, additional recreation centers and a 14-acre lake at the town center.",
+      "aboutbg": "/img/content_bg.png"
+    }
+  ],
+  "updatedDate": "2017-11-28T06:24:37.530Z"
+}
